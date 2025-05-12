@@ -10,6 +10,7 @@
 
 🔹 EDA Challenge Goals
 - Count of Movies vs TV Shows.
+- Count according to the Duration.
 - Top 10 genres / categories.
 - Most frequent directors and actors.
 - Country with the most content.
