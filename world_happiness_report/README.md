@@ -5,4 +5,4 @@
 - 🎯 Task: Compare happiness scores over time and by region
 - 📚 Skills: Correlation, Grouped statistics, Visualizations
 - 📐 Math: Correlation, basic regression idea
-- 🛠️ Project: Country-wise happiness dashboard  
+- 🛠️ Project: Country-wise happiness dashboard
